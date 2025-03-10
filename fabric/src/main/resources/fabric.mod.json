@@ -2,13 +2,14 @@
   "schemaVersion": 1,
   "id": "hold_w_to_ponder",
   "version": "${version}",
-  "name": "Hold W to Ponder",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "Hold [W] to Ponder",
+  "description": "A small mod that adds new Create Ponders for vanilla redstone components as well as a few other items!",
   "authors": [
-    "marleyinbloom"
+    "marleyinbloom",
+    "PoolloverNathan"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
+    "homepage": "https://modrinth.com/project/hold_w_to_ponder",
     "sources": "https://github.com/marleyinbloom/hold_w_to_ponder"
   },
   "license": "Insert License Here",

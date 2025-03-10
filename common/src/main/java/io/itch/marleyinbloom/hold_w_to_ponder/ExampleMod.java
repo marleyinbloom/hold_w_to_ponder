@@ -7,7 +7,7 @@ import org.slf4j.LoggerFactory;
 
 public class ExampleMod {
     public static final String MOD_ID = "hold_w_to_ponder";
-    public static final String NAME = "Hold W to Ponder";
+    public static final String NAME = "Hold [W] to Ponder";
     public static final Logger LOGGER = LoggerFactory.getLogger(NAME);
 
 

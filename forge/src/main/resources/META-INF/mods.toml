@@ -6,10 +6,10 @@ license = "Insert License Here"
 [[mods]]
 modId = "hold_w_to_ponder"
 version = "${version}"
-displayName = "Hold W to Ponder"
-authors = "Me!"
+displayName = "Hold [W] to Ponder"
+authors = "marleyinbloom, PoolloverNathan"
 description = '''
-This is an example description! Tell everyone what your mod is about!
+A small mod that adds new Create Ponders for vanilla redstone components as well as a few other items!
 '''
 logoFile = "icon.png"
 
