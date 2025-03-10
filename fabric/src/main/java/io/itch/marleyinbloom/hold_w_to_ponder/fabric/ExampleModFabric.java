@@ -1,8 +1,8 @@
-package net.examplemod.fabric;
+package io.itch.marleyinbloom.hold_w_to_ponder.fabric;
 
 import io.github.fabricators_of_create.porting_lib.util.EnvExecutor;
-import net.examplemod.ExampleBlocks;
-import net.examplemod.ExampleMod;
+import io.itch.marleyinbloom.hold_w_to_ponder.ExampleBlocks;
+import io.itch.marleyinbloom.hold_w_to_ponder.ExampleMod;
 import net.fabricmc.api.ModInitializer;
 
 public class ExampleModFabric implements ModInitializer {

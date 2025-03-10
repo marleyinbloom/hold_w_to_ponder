@@ -1,6 +1,6 @@
-package net.examplemod.mixin;
+package io.itch.marleyinbloom.hold_w_to_ponder.mixin;
 
-import net.examplemod.ExampleMod;
+import io.itch.marleyinbloom.hold_w_to_ponder.ExampleMod;
 import net.minecraft.client.gui.screens.TitleScreen;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.injection.At;

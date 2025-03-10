@@ -1,27 +1,27 @@
 {
   "schemaVersion": 1,
-  "id": "examplemod",
+  "id": "hold_w_to_ponder",
   "version": "${version}",
-  "name": "Example Mod",
+  "name": "Hold W to Ponder",
   "description": "This is an example description! Tell everyone what your mod is about!",
   "authors": [
-    "Me!"
+    "marleyinbloom"
   ],
   "contact": {
     "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "sources": "https://github.com/marleyinbloom/hold_w_to_ponder"
   },
   "license": "Insert License Here",
-  "icon": "assets/examplemod/icon.png",
+  "icon": "assets/hold_w_to_ponder/icon.png",
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.examplemod.fabric.ExampleModFabric"
+      "io.itch.marleyinbloom.hold_w_to_ponder.fabric.ExampleModFabric"
     ]
   },
   "mixins": [
-    "examplemod.mixins.json",
-    "examplemod-common.mixins.json"
+    "hold_w_to_ponder.mixins.json",
+    "hold_w_to_ponder-common.mixins.json"
   ],
   "depends": {
     "minecraft": "${minecraft_version}",

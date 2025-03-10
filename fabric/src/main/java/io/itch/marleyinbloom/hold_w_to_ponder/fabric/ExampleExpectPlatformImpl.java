@@ -1,4 +1,4 @@
-package net.examplemod.fabric;
+package io.itch.marleyinbloom.hold_w_to_ponder.fabric;
 
 import net.fabricmc.loader.api.FabricLoader;
 
