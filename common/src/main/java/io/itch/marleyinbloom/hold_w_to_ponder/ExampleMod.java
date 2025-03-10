@@ -1,4 +1,4 @@
-package net.examplemod;
+package io.itch.marleyinbloom.hold_w_to_ponder;
 
 import com.simibubi.create.Create;
 import net.minecraft.resources.ResourceLocation;
@@ -6,8 +6,8 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 public class ExampleMod {
-    public static final String MOD_ID = "examplemod";
-    public static final String NAME = "Example Mod";
+    public static final String MOD_ID = "hold_w_to_ponder";
+    public static final String NAME = "Hold W to Ponder";
     public static final Logger LOGGER = LoggerFactory.getLogger(NAME);
 
 

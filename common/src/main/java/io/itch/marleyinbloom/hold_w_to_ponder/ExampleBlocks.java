@@ -1,4 +1,4 @@
-package net.examplemod;
+package io.itch.marleyinbloom.hold_w_to_ponder;
 
 import com.simibubi.create.foundation.data.CreateRegistrate;
 import com.tterrag.registrate.util.entry.BlockEntry;

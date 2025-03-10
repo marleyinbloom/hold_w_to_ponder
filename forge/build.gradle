@@ -63,8 +63,8 @@ processResources {
 loom {
     forge {
         mixinConfig(
-                "examplemod-common.mixins.json",
-                "examplemod.mixins.json"
+                "hold_w_to_ponder-common.mixins.json",
+                "hold_w_to_ponder.mixins.json"
         )
     }
 }
